@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Kaio 
-- 👀 I’m interested in web development job
-- 🌱 I’m currently learning Html/Css/JavaScript/EcmaScript6+
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me kaiobastos2019@gmail.com 
-- Linkeed:https://www.linkedin.com/in/kaio-bastos-777b66252/ 
+## Olá, eu me chamo Kaio e sejam bem vindos ao meu Perfil :P
